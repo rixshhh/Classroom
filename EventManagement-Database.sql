@@ -90,4 +90,4 @@ SELECT * FROM Category;
 SELECT * FROM [Events];
 SELECT * FROM EventParticipants;
 
-	
+
